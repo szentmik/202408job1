@@ -292,6 +292,10 @@ p {
     width: 50%;
 }
 
+.sub-button {
+    color: var(--black);
+}
+
 /* Footer  */
 
 .footer-flex {
