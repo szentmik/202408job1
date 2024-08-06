@@ -885,6 +885,7 @@ textarea {
 
 #subscribe button {
     background-color: #FFFFFF;
+    color: var(--black);
     border-radius: 100px;
     border: none;
     font-size: .8rem;
